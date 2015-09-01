@@ -191,4 +191,4 @@ INTEL_USE_CAMERA_UVC := true
 -include vendor/asus/fugu/BoardConfigVendor.mk
 
 # Recipes to generate prebuilts
--include device/intel/common/external/external.mk
+#-include device/intel/common/external/external.mk

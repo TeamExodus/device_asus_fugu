@@ -2,5 +2,17 @@
   {
     "repository": "proprietary_vendor_asus",
     "target_path": "vendor/asus"
+  },
+  {
+    "repository": "proprietary_vendor_google",
+    "target_path": "vendor/google"
+  },
+  {
+    "repository": "proprietary_vendor_broadcom",
+    "target_path": "vendor/broadcom"
+  },
+  {
+    "repository": "proprietary_vendor_widevine",
+    "target_path": "vendor/widevine"
   }
 ]
