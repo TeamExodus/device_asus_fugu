@@ -1,0 +1,8 @@
+[
+  {
+    "repository": "proprietary_vendor_asus",
+    "target_path": "vendor/asus"
+    "repository": "hardware_intel_bootstub",
+    "target_path": "hardware/intel/boostub"
+  }
+]
